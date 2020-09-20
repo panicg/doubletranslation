@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="language_id">
+        <item>empty</item>
+        <item>kr</item>
+        <item>en</item>
+        <item>jp</item>
+        <item>cn</item>
+        <item>vi</item>
+        <item>id</item>
+        <item>ar</item>
+        <item>bn</item>
+        <item>de</item>
+        <item>es</item>
+        <item>fr</item>
+        <item>hi</item>
+        <item>it</item>
+        <item>ms</item>
+        <item>nl</item>
+        <item>pt</item>
+        <item>ru</item>
+        <item>th</item>
+        <item>tr</item>
+    </string-array>
+
+    <string-array name="language_desc">
+        <item>선택</item>
+        <item>한국어</item>
+        <item>영어</item>
+        <item>일본어</item>
+        <item>중국어</item>
+        <item>베트남어</item>
+        <item>인도네시아어</item>
+        <item>아랍어</item>
+        <item>뱅갈어</item>
+        <item>독일어</item>
+        <item>스페인어</item>
+        <item>프랑스어</item>
+        <item>힌디어</item>
+        <item>이탈리아어</item>
+        <item>말레이시아어</item>
+        <item>네덜란드어</item>
+        <item>포르투갈어</item>
+        <item>러시아어</item>
+        <item>태국어</item>
+        <item>터키어</item>
+    </string-array>
+</resources>

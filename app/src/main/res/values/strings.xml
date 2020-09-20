@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DoubleTranslation</string>
+
+    <string name="app_id">ca-app-pub-5730087376539173~5582836922</string>
+    <string name="ad_id">ca-app-pub-5730087376539173/9115899589</string>
+    <string name="ad_id_test">ca-app-pub-3940256099942544/6300978111</string>
+</resources>

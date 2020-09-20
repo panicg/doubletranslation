@@ -1,0 +1,41 @@
+{
+  "project_info": {
+    "project_number": "796886506532",
+    "firebase_url": "https://doubletranslation-5f47f.firebaseio.com",
+    "project_id": "doubletranslation-5f47f",
+    "storage_bucket": "doubletranslation-5f47f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796886506532:android:cf162340b610323ea2ccb1",
+        "android_client_info": {
+          "package_name": "com.panic.doubletranslation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "796886506532-sbe5t3t1ckhji7dh3v06r5a1iunq23rs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCakMxI3GXT59z1OP-1bJgHX7aImqH2yWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "796886506532-sbe5t3t1ckhji7dh3v06r5a1iunq23rs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-5730087376539173~5582836922"
+    }
+  ],
+  "configuration_version": "1"
+}
